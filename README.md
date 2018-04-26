@@ -1,3 +1,3 @@
 # sup
 (on-going)
-Data Biasnes and its Visualisation of various newsitems acroos various news sources.
+Data Biasness and its Visualisation of newsitems across various news sources.
